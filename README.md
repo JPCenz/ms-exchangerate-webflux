@@ -41,3 +41,10 @@
 
 3. **Frontend con Angular**:
     - Implementar un frontend con Angular que consuma las API.
+
+
+
+### Referencias
+### DDD (Domain-Driven Design)
+* [DDD Reference](https://www.baeldung.com/hexagonal-architecture-ddd-spring)
+* [DDD Repository](https://github.com/eugenp/tutorials/tree/master/patterns-modules/ddd)
